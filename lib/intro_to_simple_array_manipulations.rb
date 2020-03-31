@@ -1,4 +1,3 @@
 def using_push (array, string)
-  array.push(string) = "updated array"
-  puts updated_array
+  array.push(string)
 end
